@@ -17,8 +17,6 @@ namespace CoiSA\Facade;
 
 interface FacadeInterface
 {
-    public static function __callStatic(string $method, array $args);
-
     public static function mock(object $mockedFacadeObject): void;
 
     public static function call(string $method, ...$args);
