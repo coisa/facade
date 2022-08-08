@@ -26,9 +26,9 @@ Please see [License File](LICENSE) for more information.
 [badge-php]: https://img.shields.io/packagist/php-v/coisa/facade.svg
 [badge-license]: https://img.shields.io/github/license/coisa/facade.svg
 [badge-downloads]: https://img.shields.io/packagist/dt/coisa/facade.svg
-[badge-workflow-analyse]: https://github.com/coisa/facade/actions/workflows/analyse.yml/badge.svg
-[badge-workflow-tests]: https://github.com/coisa/facade/actions/workflows/tests.yml/badge.svg
-[badge-workflow-code-style]: https://github.com/coisa/facade/actions/workflows/code-style.yml/badge.svg
+[badge-workflow-analyse]: https://github.com/coisa/facade/actions/workflows/analyse.yml/badge.svg?event=push
+[badge-workflow-tests]: https://github.com/coisa/facade/actions/workflows/tests.yml/badge.svg?event=push
+[badge-workflow-code-style]: https://github.com/coisa/facade/actions/workflows/code-style.yml/badge.svg?event=push
 
 [link-packagist]: https://packagist.org/packages/coisa/facade
 [link-downloads]: https://packagist.org/packages/coisa/facade
