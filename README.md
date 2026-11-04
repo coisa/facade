@@ -24,15 +24,15 @@ Please see [License File](LICENSE) for more information.
 
 [badge-version]: https://img.shields.io/packagist/v/coisa/facade.svg
 [badge-php]: https://img.shields.io/packagist/php-v/coisa/facade.svg
-[badge-license]: https://img.shields.io/github/license/coisa/facade.svg
+[badge-license]: https://img.shields.io/github/license/artificenerd/facade.svg
 [badge-downloads]: https://img.shields.io/packagist/dt/coisa/facade.svg
-[badge-workflow-analyse]: https://github.com/coisa/facade/actions/workflows/analyse.yml/badge.svg?event=push
-[badge-workflow-tests]: https://github.com/coisa/facade/actions/workflows/tests.yml/badge.svg?event=push
-[badge-workflow-code-style]: https://github.com/coisa/facade/actions/workflows/code-style.yml/badge.svg?event=push
+[badge-workflow-analyse]: https://github.com/artificenerd/facade/actions/workflows/analyse.yml/badge.svg?event=push
+[badge-workflow-tests]: https://github.com/artificenerd/facade/actions/workflows/tests.yml/badge.svg?event=push
+[badge-workflow-code-style]: https://github.com/artificenerd/facade/actions/workflows/code-style.yml/badge.svg?event=push
 
 [link-packagist]: https://packagist.org/packages/coisa/facade
 [link-downloads]: https://packagist.org/packages/coisa/facade
-[link-author]: https://github.com/coisa
-[link-workflow-analyse]: https://github.com/coisa/facade/actions/workflows/analyse.yml
-[link-workflow-tests]: https://github.com/coisa/facade/actions/workflows/tests.yml
-[link-workflow-code-style]: https://github.com/coisa/facade/actions/workflows/code-style.yml
+[link-author]: https://github.com/artificenerd
+[link-workflow-analyse]: https://github.com/artificenerd/facade/actions/workflows/analyse.yml
+[link-workflow-tests]: https://github.com/artificenerd/facade/actions/workflows/tests.yml
+[link-workflow-code-style]: https://github.com/artificenerd/facade/actions/workflows/code-style.yml
